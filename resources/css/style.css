@@ -1,0 +1,26 @@
+html {
+    background-color: black;
+}
+header h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    color: white;
+    width: 100%;
+}
+
+.link1 {
+    text-align: center;
+}
+
+.link1 a {
+    width: 100%;
+    color: aquamarine;
+    font-size: 16px;
+}
+
+
+
+
+
